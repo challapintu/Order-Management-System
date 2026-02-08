@@ -30,4 +30,4 @@ Order Management System built using Spring Boot and Angular.
 - Run `ng serve`
 
 ## Author
-KOTINI VINAY
+CHALLA PINTU
