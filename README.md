@@ -78,6 +78,9 @@ The entire application is containerized using Docker and deployed on Azure, demo
 - Open the `frontend` folder in VS Code
 - Run `npm install`
 - Start the app using `ng serve`
+---
+## Project Presentation
+[View Project PPT](presentation/Order-Management-System-Presentation.pptx)
 
 ---
 
