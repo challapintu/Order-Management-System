@@ -49,6 +49,9 @@ The entire application is containerized using Docker and deployed on Azure, demo
 ### Orders Page
 ![Orders](screenshots/Orders%20Page.png)
 
+### Postman Testing 
+![User Login API Test](screenshots/Postman%20testing.jpeg)
+
 ---
 
 ## Docker & Cloud Deployment
